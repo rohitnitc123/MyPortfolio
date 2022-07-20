@@ -42,3 +42,6 @@
     flex-direction: column;
     margin-top: 40px;
   }
+  .nav-list nav-close{
+    color: blue;
+  }
