@@ -110,3 +110,6 @@ a{
   .menu-btn{
      display: none;
   }
+  #nav{
+    color: blue;
+  }
